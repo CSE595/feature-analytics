@@ -6,8 +6,8 @@ Data Analytics Project- Identification and clustering of nuclei features
 Authors
 =======
 
-Akhilesh Gadde
-Sai Santhosh Vaidyam Anandan
-Satya Hara Pavan Kumar Maguluri
-Sowmiya Narayan Srinath
-Sri Sruti Mandadapu
+Akhilesh Gadde <br>
+Sai Santhosh Vaidyam Anandan <br>
+Satya Hara Pavan Kumar Maguluri <br>
+Sowmiya Narayan Srinath <br>
+Sri Sruti Mandadapu <br>
